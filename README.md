@@ -19,4 +19,5 @@
 
 ----
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangSeokBeom)](https://github.com/anuraghazra/github-readme-stats)
 [![HwangSeokBeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSeokBeom)](https://github.com/anuraghazra/github-readme-stats)
